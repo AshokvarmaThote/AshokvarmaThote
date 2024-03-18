@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshokvarmaThote
-- 👀 I’m interested in Front-end-development
+- 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning Front-end Technologies
 - 💞️ I’m looking to collaborate on Front-end Developers
 
